@@ -1,0 +1,14 @@
+[
+  { "Id": 1, "Nombre": "Cambio de aceite y filtro", "Categoria": "Mantenimiento", "Precio": 45000 },
+  { "Id": 2, "Nombre": "Filtro de aire", "Categoria": "Mantenimiento", "Precio": 12000 },
+  { "Id": 3, "Nombre": "Alineación y balanceo", "Categoria": "Tren delantero", "Precio": 38000 },
+  { "Id": 4, "Nombre": "Amortiguadores (par)", "Categoria": "Tren delantero", "Precio": 140000 },
+  { "Id": 5, "Nombre": "Pastillas de freno (par)", "Categoria": "Frenos", "Precio": 52000 },
+  { "Id": 6, "Nombre": "Discos de freno (par)", "Categoria": "Frenos", "Precio": 98000 },
+  { "Id": 7, "Nombre": "Correa de distribución", "Categoria": "Motor", "Precio": 180000 },
+  { "Id": 8, "Nombre": "Limpieza de inyectores", "Categoria": "Motor", "Precio": 60000 },
+  { "Id": 9, "Nombre": "Diagnóstico computarizado", "Categoria": "Electricidad", "Precio": 25000 },
+  { "Id": 10, "Nombre": "Batería 12 V", "Categoria": "Electricidad", "Precio": 95000 },
+  { "Id": 11, "Nombre": "Lámpara H4", "Categoria": "Electricidad", "Precio": 8000 },
+  { "Id": 12, "Nombre": "Lavado de motor", "Categoria": "Varios", "Precio": 15000 }
+]

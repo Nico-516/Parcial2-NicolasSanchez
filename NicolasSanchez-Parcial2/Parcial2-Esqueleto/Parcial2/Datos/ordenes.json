@@ -1,0 +1,185 @@
+[
+  {
+    "Id": 1,
+    "Cliente": "Lucía Fernández",
+    "Telefono": "223-555-0101",
+    "Patente": "AB123CD",
+    "Cuit": "",
+    "FormaPago": "Efectivo",
+    "Cuotas": 1,
+    "Items": [
+      {
+        "Descripcion": "Cambio de aceite y filtro",
+        "PrecioUnitario": 45000,
+        "Cantidad": 1,
+        "Subtotal": 45000
+      },
+      {
+        "Descripcion": "Filtro de aire",
+        "PrecioUnitario": 12000,
+        "Cantidad": 1,
+        "Subtotal": 12000
+      }
+    ],
+    "Ajuste": -5700,
+    "Total": 51300,
+    "Estado": "Retirada",
+    "FechaIngreso": "2026-11-03T08:10:00"
+  },
+  {
+    "Id": 2,
+    "Cliente": "Martín Sosa",
+    "Telefono": "223-555-0102",
+    "Patente": "KJH452",
+    "Cuit": "",
+    "FormaPago": "Tarjeta de crédito",
+    "Cuotas": 3,
+    "Items": [
+      {
+        "Descripcion": "Pastillas de freno (par)",
+        "PrecioUnitario": 52000,
+        "Cantidad": 1,
+        "Subtotal": 52000
+      },
+      {
+        "Descripcion": "Discos de freno (par)",
+        "PrecioUnitario": 98000,
+        "Cantidad": 1,
+        "Subtotal": 98000
+      }
+    ],
+    "Ajuste": 15000,
+    "Total": 165000,
+    "Estado": "Retirada",
+    "FechaIngreso": "2026-11-03T08:35:00"
+  },
+  {
+    "Id": 3,
+    "Cliente": "Transportes Costa Atlántica",
+    "Telefono": "223-555-0103",
+    "Patente": "AE987FG",
+    "Cuit": "30-71234567-8",
+    "FormaPago": "Cuenta corriente",
+    "Cuotas": 1,
+    "Items": [
+      {
+        "Descripcion": "Cambio de aceite y filtro",
+        "PrecioUnitario": 45000,
+        "Cantidad": 2,
+        "Subtotal": 90000
+      },
+      {
+        "Descripcion": "Alineación y balanceo",
+        "PrecioUnitario": 38000,
+        "Cantidad": 2,
+        "Subtotal": 76000
+      }
+    ],
+    "Ajuste": 11300,
+    "Total": 177300,
+    "Estado": "Terminada",
+    "FechaIngreso": "2026-11-03T09:02:00"
+  },
+  {
+    "Id": 4,
+    "Cliente": "Sofía Méndez",
+    "Telefono": "223-555-0104",
+    "Patente": "AC456TR",
+    "Cuit": "",
+    "FormaPago": "Tarjeta de crédito",
+    "Cuotas": 6,
+    "Items": [
+      {
+        "Descripcion": "Correa de distribución",
+        "PrecioUnitario": 180000,
+        "Cantidad": 1,
+        "Subtotal": 180000
+      },
+      {
+        "Descripcion": "Limpieza de inyectores",
+        "PrecioUnitario": 60000,
+        "Cantidad": 1,
+        "Subtotal": 60000
+      }
+    ],
+    "Ajuste": 48000,
+    "Total": 288000,
+    "Estado": "EnReparacion",
+    "FechaIngreso": "2026-11-03T09:40:00"
+  },
+  {
+    "Id": 5,
+    "Cliente": "Valentina Ruiz",
+    "Telefono": "223-555-0106",
+    "Patente": "OPQ318",
+    "Cuit": "",
+    "FormaPago": "Efectivo",
+    "Cuotas": 1,
+    "Items": [
+      {
+        "Descripcion": "Diagnóstico computarizado",
+        "PrecioUnitario": 25000,
+        "Cantidad": 1,
+        "Subtotal": 25000
+      }
+    ],
+    "Ajuste": -2500,
+    "Total": 22500,
+    "Estado": "Cancelada",
+    "FechaIngreso": "2026-11-03T10:05:00"
+  },
+  {
+    "Id": 6,
+    "Cliente": "Tomás Acuña",
+    "Telefono": "223-555-0105",
+    "Patente": "AD741KM",
+    "Cuit": "",
+    "FormaPago": "Tarjeta de crédito",
+    "Cuotas": 1,
+    "Items": [
+      {
+        "Descripcion": "Batería 12 V",
+        "PrecioUnitario": 95000,
+        "Cantidad": 1,
+        "Subtotal": 95000
+      },
+      {
+        "Descripcion": "Lámpara H4",
+        "PrecioUnitario": 8000,
+        "Cantidad": 2,
+        "Subtotal": 16000
+      }
+    ],
+    "Ajuste": 0,
+    "Total": 111000,
+    "Estado": "Ingresada",
+    "FechaIngreso": "2026-11-03T10:20:00"
+  },
+  {
+    "Id": 7,
+    "Cliente": "Ezequiel Paz",
+    "Telefono": "223-555-0107",
+    "Patente": "AF202BB",
+    "Cuit": "",
+    "FormaPago": "Efectivo",
+    "Cuotas": 1,
+    "Items": [
+      {
+        "Descripcion": "Amortiguadores (par)",
+        "PrecioUnitario": 140000,
+        "Cantidad": 1,
+        "Subtotal": 140000
+      },
+      {
+        "Descripcion": "Alineación y balanceo",
+        "PrecioUnitario": 38000,
+        "Cantidad": 1,
+        "Subtotal": 38000
+      }
+    ],
+    "Ajuste": -17800,
+    "Total": 160200,
+    "Estado": "Ingresada",
+    "FechaIngreso": "2026-11-03T10:48:00"
+  }
+]
